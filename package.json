@@ -1,6 +1,6 @@
 {
   "name": "web-components-toast",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a toast web component",
   "main": "dist/index.min.js",
   "files": [

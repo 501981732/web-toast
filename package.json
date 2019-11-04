@@ -1,0 +1,19 @@
+{
+  "name": "web-components-toast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.min.js",
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack.config.js --mode development",
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "build": "webpack --config ./webpack.prod.config.js --mode production"
+  },
+  "keywords": [],
+  "author": "501981732",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.5.1"
+  }
+}

@@ -4,11 +4,7 @@
 
 Starter Kit for Web Components with Webpack as application bundler.
 * fork web-components-starter-kit
-## Installation
-* fork web-components-toast
-* npm install
-* npm start
-* visit `http://localhost:8080`
+
 
 ## useage
 

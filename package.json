@@ -1,15 +1,23 @@
 {
   "name": "web-components-toast",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "a toast web component",
   "main": "dist/index.min.js",
+  "files": [
+    "dist",
+    "src",
+    "README.md"
+  ],
+  "keywords": [
+    "web component",
+    "toast"
+  ],
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development",
     "test": "echo \"Error: no test specified\" && exit 0",
     "build": "webpack --config ./webpack.prod.config.js --mode production"
   },
-  "keywords": [],
-  "author": "501981732",
+  "author": "gblw",
   "license": "MIT",
   "devDependencies": {
     "webpack": "^4.32.2",

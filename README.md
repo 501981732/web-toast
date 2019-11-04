@@ -8,6 +8,6 @@ Starter Kit for Web Components with Webpack as application bundler.
 
 ## useage
 
-* npm install web-toast
-* import ‘path to web-toast’
+* npm install web-component-toast
+* import ‘path to web-component-toast’
 * `<web-toast text='haha' open ></web-toast>`
